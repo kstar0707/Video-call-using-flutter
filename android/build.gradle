@@ -1,0 +1,25 @@
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    // Exclude Agora FOREGROUND_SERVICE_MEDIA_PROJECTION permission  
+    configurations.all {
+      exclude group:"io.agora.rtc", module:"full-screen-sharing"
+    }
+}
+
+rootProject.buildDir = '../build'
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+
+subprojects {
+    project.evaluationDependsOn(':app')
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

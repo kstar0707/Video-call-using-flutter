@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="54.544" height="43.319" viewBox="0 0 54.544 43.319">
+  <g id="arrow_double_down" transform="translate(459.595 126.422)">
+    <g id="arrow_down" transform="translate(-459.595 -126.422)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="6.216" height="34.81" rx="3.108" transform="matrix(0.588, -0.809, 0.809, 0.588, 0, 5.453)" fill="#63747d"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="6.216" height="34.81" rx="3.108" transform="matrix(0.602, 0.799, -0.799, 0.602, 50.803, 0)" fill="#63747d"/>
+    </g>
+    <g id="arrow_down-2" data-name="arrow_down" transform="translate(-459.595 -109.017)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="6.216" height="34.81" rx="3.108" transform="matrix(0.588, -0.809, 0.809, 0.588, 0, 5.453)" fill="#63747d"/>
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="6.216" height="34.81" rx="3.108" transform="matrix(0.602, 0.799, -0.799, 0.602, 50.803, 0)" fill="#63747d"/>
+    </g>
+  </g>
+</svg>

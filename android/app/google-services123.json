@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "99096378851",
+    "firebase_url": "https://bau-pm-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bau-pm",
+    "storage_bucket": "bau-pm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99096378851:android:a6ff555139a3852fe874d6",
+        "android_client_info": {
+          "package_name": "de.bau300.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99096378851-1rhb6j7dqo827ak978iv4ll7r1jqjpvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.bau300.app",
+            "certificate_hash": "ee38a16e646b650bcce1a653fe0ed810178cec59"
+          }
+        },
+        {
+          "client_id": "99096378851-ss3nrh56sudgvkan78tci14383ogu0s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5uCDmsBYiUsNG10V-o8aQCbmvi9AH6E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99096378851-ss3nrh56sudgvkan78tci14383ogu0s3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99096378851-1gr9hjbh6h050cjvkv2svdlobg1vosr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.bau300.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
